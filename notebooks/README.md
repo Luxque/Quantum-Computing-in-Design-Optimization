@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. Installation of Qiskit
+1. Set Up and Installation
 2. Basics of Qiskit
 3. Single Qubit Sysems
 4. [Multi Qubit Systems](multi.ipynb)
