@@ -2,11 +2,11 @@
 
 1. Set Up and Installation
 2. Basics of Qiskit
-3. Single Qubit Sysems
+3. Single-Qubit Sysems
 4. [Multi-Qubit Systems](multi.ipynb)
 5. Quantum Random Number Generator
 6. Quantum Adder
 7. Quantum Annealing
-8. Quantum Approximate Optimization Algorithm
-9. Varietional Quantum Eigensolver
-10. Genetic Quantum Algorithm
+8. Quantum Approximate Optimization Algorithm (QAOA)
+9. Varietional Quantum Eigensolver (VQE)
+10. Genetic Quantum Algorithm (GQA)
