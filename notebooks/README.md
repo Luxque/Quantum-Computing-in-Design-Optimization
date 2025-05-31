@@ -9,4 +9,4 @@
 7. Quantum Annealing
 8. Quantum Approximate Optimization Algorithm
 9. Varietional Quantum Eigensolver
-10. Genetic Quantum Algorithm
+10. [Genetic Quantum Algorithm](genetic.ipynb)
