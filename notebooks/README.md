@@ -2,8 +2,8 @@
 
 1. Set Up and Installation
 2. Basics of Qiskit
-3. Single Qubit Sysems
-4. [Multi-Qubit Systems](multi.ipynb)
+3. [Single Qubit Systems](./single.ipynb)
+4. [Multi-Qubit Systems](./multi.ipynb)
 5. Quantum Random Number Generator
 6. Quantum Adder
 7. Quantum Annealing
