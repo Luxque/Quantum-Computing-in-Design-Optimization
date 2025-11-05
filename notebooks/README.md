@@ -7,6 +7,6 @@
 5. Quantum Random Number Generator
 6. Quantum Adder
 7. Quantum Annealing
-8. Quantum Approximate Optimization Algorithm
-9. Varietional Quantum Eigensolver
-10. Genetic Quantum Algorithm
+8. Quantum Approximate Optimization Algorithm (QAOA)
+9. Varietional Quantum Eigensolver (VQE)
+10. Genetic Quantum Algorithm (GQA)
