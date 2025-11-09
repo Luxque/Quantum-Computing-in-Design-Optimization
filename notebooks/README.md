@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Set Up and Installation](./install.ipynb)
-2. Basics of Qiskit
+2. [Basics of Qiskit](./basics.ipynb)
 3. [Single Qubit Systems](./single.ipynb)
 4. [Multi-Qubit Systems](./multi.ipynb)
 5. Quantum Random Number Generator
