@@ -1,6 +1,8 @@
 # Quantum Computing in Design Optimization
 
-Repository of demonstration materials developed for the undergraduate research project at Rensselaer Polytechnic Institute (RPI): "Quantum Computing in Design Optimization." The notebooks and supporting files demonstrate core quantum computing concepts, practical Qiskit workflows, and example applications in optimization and algorithm design.
+Repository of demonstration materials developed for the undergraduate research project at [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/): "Quantum Computing in Design Optimization."
+The notebooks and supporting files demonstrate core quantum computing concepts, practical Qiskit workflows, and example applications in optimization and algorithm design.
+
 
 ## Table of Contents
 
