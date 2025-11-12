@@ -27,7 +27,7 @@ The notebooks and supporting files demonstrate core quantum computing concepts, 
    * Run cells in order. Some notebooks require API credentials to access IBM Quantum backends (see notes below).
 
 
-## Notes on running on real quantum hardware
+## Running on Real Quantum Backend
 
 * To execute circuits on IBM Quantum systems you must provide your IBM Quantum API token and Cloud Resource Name (CRN). Keep these credentials private.
 * Transpilation is required before submitting circuits to remote backends to ensure compatibility with the device’s native gates and topology.
