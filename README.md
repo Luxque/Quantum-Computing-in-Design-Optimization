@@ -15,11 +15,11 @@ Repository of demonstration materials developed for the undergraduate research p
 ## Quick start
 
 1. Clone the repository:
-    ```powershell
+    ```sh
     git clone https://github.com/Luxque/Quantum-Computing-in-Design-Optimization.git
     cd Quantum-Computing-in-Design-Optimization
     ```
-2. Follow each steps instructed in [Set Up and Installation](./notebooks/install.ipynb) notebook.
+2. Follow each instructions in [Set Up and Installation](./notebooks/install.ipynb) notebook.
 3. Read and use the notebooks:
    * Launch JupyterLab or Jupyter Notebook and open files in the `notebooks/` directory.
    * Run cells in order. Some notebooks require API credentials to access IBM Quantum backends (see notes below).
