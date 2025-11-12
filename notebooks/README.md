@@ -6,7 +6,7 @@
 4. [Multi-Qubit Systems](./multi.ipynb)
 5. Quantum Random Number Generator
 6. Quantum Adder
-7. [Quantum Optimization and Quantum Annealing](./anneal.ipynb)
+7. [Quantum Optimization and Quantum Annealing (QA)](./anneal.ipynb)
 8. Quantum Approximate Optimization Algorithm (QAOA)
 9. Variational Quantum Eigensolver (VQE)
 10. Genetic Quantum Algorithm (GQA)
