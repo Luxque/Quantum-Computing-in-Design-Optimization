@@ -9,4 +9,4 @@
 7. Quantum Optimization and Quantum Annealing
 8. Quantum Approximate Optimization Algorithm (QAOA)
 9. Variational Quantum Eigensolver (VQE)
-10. Genetic Quantum Algorithm (GQA)
+10. [Genetic Quantum Algorithm (GQA)](./gqa.ipynb)
